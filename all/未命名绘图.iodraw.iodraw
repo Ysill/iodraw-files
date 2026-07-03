@@ -19,8 +19,19 @@
         <mxCell id="zvydhX-IuLW73o1gFQiW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="585" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zvydhX-IuLW73o1gFQiW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zvydhX-IuLW73o1gFQiW-5" target="zvydhX-IuLW73o1gFQiW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zvydhX-IuLW73o1gFQiW-11" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zvydhX-IuLW73o1gFQiW-10">
+          <mxGeometry x="-0.0889" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zvydhX-IuLW73o1gFQiW-5" value="已经开户？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zvydhX-IuLW73o1gFQiW-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
