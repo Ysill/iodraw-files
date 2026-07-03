@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="LP0GTG732YWbUUj3vlqL">
-    <mxGraphModel dx="1744" dy="1093" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2544" dy="1093" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,36 +125,31 @@
         <mxCell id="9CluM4X-0Mmo-PGJB07Y-36" value="👤 投资人" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="553" y="1140" width="418" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="61.71437290736617" y="1178.904776436942" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9CluM4X-0Mmo-PGJB07Y-37" value="投资人登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="212" y="1185" width="140" height="49" as="geometry" />
+          <mxGeometry x="-466" y="1626" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9CluM4X-0Mmo-PGJB07Y-38" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="254" y="1101" width="55" height="34" as="geometry" />
+          <mxGeometry x="-424" y="1542" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="9CluM4X-0Mmo-PGJB07Y-39" value="选中待投标，输入金额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="171" y="1283" width="221" height="49" as="geometry" />
+          <mxGeometry x="-507" y="1724" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9CluM4X-0Mmo-PGJB07Y-40" value="第三方支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="211" y="1382" width="141" height="49" as="geometry" />
+          <mxGeometry x="-467" y="1823" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9CluM4X-0Mmo-PGJB07Y-41" value="是否满标？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="217" y="1481" width="129" height="129" as="geometry" />
+          <mxGeometry x="-461" y="1922" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="9CluM4X-0Mmo-PGJB07Y-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-42" target="9CluM4X-0Mmo-PGJB07Y-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="446" y="1708" />
-              <mxPoint x="446" y="1394" />
+              <mxPoint x="-232" y="2149" />
+              <mxPoint x="-232" y="1835" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9CluM4X-0Mmo-PGJB07Y-42" value="未过期 正在借款" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="255" y="1683" width="177" height="49" as="geometry" />
+          <mxGeometry x="-423" y="2124" width="177" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9CluM4X-0Mmo-PGJB07Y-43" value="审核通过？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="137" y="2051" width="129" height="129" as="geometry" />
@@ -200,7 +195,7 @@
         <mxCell id="9CluM4X-0Mmo-PGJB07Y-54" value="否" style="curved=0;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-41" target="9CluM4X-0Mmo-PGJB07Y-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="343" y="1646" />
+              <mxPoint x="-335" y="2087" />
             </Array>
           </mxGeometry>
         </mxCell>
