@@ -191,7 +191,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-42" target="9CluM4X-0Mmo-PGJB07Y-47">
+        <mxCell id="9CluM4X-0Mmo-PGJB07Y-55" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.63;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-42" target="9CluM4X-0Mmo-PGJB07Y-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="392" y="1756" />
@@ -224,7 +224,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-60" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.31;entryY=-0.01;rounded=0;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-41" target="9CluM4X-0Mmo-PGJB07Y-44">
+        <mxCell id="9CluM4X-0Mmo-PGJB07Y-60" value="是" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.31;entryY=-0.01;rounded=0;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-41" target="9CluM4X-0Mmo-PGJB07Y-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="153" y="1646" />
