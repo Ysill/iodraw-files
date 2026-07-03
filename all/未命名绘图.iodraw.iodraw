@@ -104,6 +104,9 @@
         <mxCell id="zvydhX-IuLW73o1gFQiW-29" value="账号余额是否不足" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="670" width="105" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="zvydhX-IuLW73o1gFQiW-42" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="zvydhX-IuLW73o1gFQiW-31" target="zvydhX-IuLW73o1gFQiW-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zvydhX-IuLW73o1gFQiW-31" value="投资成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="855" width="120" height="60" as="geometry" />
         </mxCell>
@@ -116,6 +119,9 @@
         </mxCell>
         <mxCell id="zvydhX-IuLW73o1gFQiW-34" value="余额充值" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zvydhX-IuLW73o1gFQiW-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="995" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
