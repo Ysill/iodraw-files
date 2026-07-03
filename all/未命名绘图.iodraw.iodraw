@@ -7,14 +7,17 @@
         <mxCell id="zvydhX-IuLW73o1gFQiW-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="280" width="90" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="zvydhX-IuLW73o1gFQiW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zvydhX-IuLW73o1gFQiW-3" target="zvydhX-IuLW73o1gFQiW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zvydhX-IuLW73o1gFQiW-3" value="投资人登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvydhX-IuLW73o1gFQiW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvydhX-IuLW73o1gFQiW-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="420" width="80" height="80" as="geometry" />
+          <mxGeometry x="280" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
