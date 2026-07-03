@@ -125,6 +125,11 @@
         <mxCell id="9CluM4X-0Mmo-PGJB07Y-36" value="👤 投资人" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="553" y="1140" width="418" height="680" as="geometry" />
         </mxCell>
+        <mxCell id="9CluM4X-0Mmo-PGJB07Y-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="61.71437290736617" y="1178.904776436942" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9CluM4X-0Mmo-PGJB07Y-37" value="投资人登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="212" y="1185" width="140" height="49" as="geometry" />
         </mxCell>
