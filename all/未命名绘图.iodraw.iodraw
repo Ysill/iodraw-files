@@ -72,6 +72,10 @@
         <mxCell id="zvydhX-IuLW73o1gFQiW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zvydhX-IuLW73o1gFQiW-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="734" />
+              <mxPoint x="101" y="734" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zvydhX-IuLW73o1gFQiW-15" value="风险判断" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
