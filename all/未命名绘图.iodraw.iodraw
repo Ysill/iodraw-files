@@ -40,6 +40,9 @@
         <mxCell id="zvydhX-IuLW73o1gFQiW-9" value="进行开户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zvydhX-IuLW73o1gFQiW-14" value="是否进行风险判断？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
