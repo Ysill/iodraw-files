@@ -86,7 +86,7 @@
           <mxGeometry x="260" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvydhX-IuLW73o1gFQiW-29" value="账号余额是否不足" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="890" width="80" height="80" as="geometry" />
+          <mxGeometry x="265" y="890" width="105" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
