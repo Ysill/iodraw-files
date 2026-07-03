@@ -72,6 +72,9 @@
         <mxCell id="zvydhX-IuLW73o1gFQiW-15" value="风险判断" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="607.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zvydhX-IuLW73o1gFQiW-27" style="edgeStyle=elbowEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zvydhX-IuLW73o1gFQiW-20" target="zvydhX-IuLW73o1gFQiW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zvydhX-IuLW73o1gFQiW-20" value="选择借款标进行投资" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="760" width="120" height="60" as="geometry" />
         </mxCell>
