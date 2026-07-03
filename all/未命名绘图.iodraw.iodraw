@@ -85,7 +85,7 @@
         <mxCell id="zvydhX-IuLW73o1gFQiW-20" value="选择借款标进行投资" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zvydhX-IuLW73o1gFQiW-29" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zvydhX-IuLW73o1gFQiW-29" value="账号余额是否不足" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="890" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
