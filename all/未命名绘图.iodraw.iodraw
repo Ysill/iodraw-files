@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="LP0GTG732YWbUUj3vlqL">
-    <mxGraphModel dx="1221" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="765" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,125 +122,6 @@
         </mxCell>
         <mxCell id="zvydhX-IuLW73o1gFQiW-41" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="995" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-2" target="9CluM4X-0Mmo-PGJB07Y-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="865" y="590" width="90" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-4" target="9CluM4X-0Mmo-PGJB07Y-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-4" value="投资人登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-9" target="9CluM4X-0Mmo-PGJB07Y-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-6" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9CluM4X-0Mmo-PGJB07Y-5">
-          <mxGeometry x="-0.0889" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910" y="905" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-8" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9CluM4X-0Mmo-PGJB07Y-7">
-          <mxGeometry x="-0.2923" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-9" value="是否为开户？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="760" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-11" target="9CluM4X-0Mmo-PGJB07Y-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1090" y="1050" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1090" y="960" />
-              <mxPoint x="1091" y="960" />
-              <mxPoint x="1091" y="958" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-11" value="进行开户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="770" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-16" target="9CluM4X-0Mmo-PGJB07Y-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-13" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9CluM4X-0Mmo-PGJB07Y-12">
-          <mxGeometry x="-0.237" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-16" target="9CluM4X-0Mmo-PGJB07Y-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-15" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9CluM4X-0Mmo-PGJB07Y-14">
-          <mxGeometry x="-0.3429" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-16" value="是否已经风险判断？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="905" width="140" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-17" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-18" target="9CluM4X-0Mmo-PGJB07Y-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="690" y="1110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-18" value="风险判断" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="927.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-19" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-20" target="9CluM4X-0Mmo-PGJB07Y-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-20" value="选择借款标进行投资" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1080" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-21" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-25" target="9CluM4X-0Mmo-PGJB07Y-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-22" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9CluM4X-0Mmo-PGJB07Y-21">
-          <mxGeometry x="-0.2842" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-23" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-25" target="9CluM4X-0Mmo-PGJB07Y-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-24" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9CluM4X-0Mmo-PGJB07Y-23">
-          <mxGeometry x="-0.6644" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-25" value="账号余额是否不足" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="857.5" y="1210" width="105" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-26" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-27" target="9CluM4X-0Mmo-PGJB07Y-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-27" value="投资成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1395" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-28" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9CluM4X-0Mmo-PGJB07Y-29" target="9CluM4X-0Mmo-PGJB07Y-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1090" y="1425" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-29" value="余额充值" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="1225" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9CluM4X-0Mmo-PGJB07Y-30" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1535" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
