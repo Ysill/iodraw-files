@@ -34,7 +34,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zvydhX-IuLW73o1gFQiW-5" value="是否开户？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zvydhX-IuLW73o1gFQiW-5" value="是否为开户？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zvydhX-IuLW73o1gFQiW-9" value="进行开户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
