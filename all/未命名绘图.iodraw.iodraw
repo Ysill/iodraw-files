@@ -69,9 +69,9 @@
         <mxCell id="zvydhX-IuLW73o1gFQiW-14" value="是否已经风险判断？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="585" width="140" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="zvydhX-IuLW73o1gFQiW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zvydhX-IuLW73o1gFQiW-15">
+        <mxCell id="zvydhX-IuLW73o1gFQiW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zvydhX-IuLW73o1gFQiW-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="940" as="targetPoint" />
+            <mxPoint x="100" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zvydhX-IuLW73o1gFQiW-15" value="风险判断" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
