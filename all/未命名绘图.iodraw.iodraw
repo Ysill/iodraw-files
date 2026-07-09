@@ -120,7 +120,7 @@
           <mxGeometry x="280" y="995" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9CluM4X-0Mmo-PGJB07Y-35" value="👤 审核员" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="83" y="1829" width="391" height="497" as="geometry" />
+          <mxGeometry x="104" y="1829" width="391" height="497" as="geometry" />
         </mxCell>
         <mxCell id="9CluM4X-0Mmo-PGJB07Y-36" value="👤 投资人" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="80" y="1083" width="418" height="680" as="geometry" />
