@@ -353,22 +353,27 @@
           <mxGeometry x="529" y="2768" width="143" height="37" as="geometry" />
         </mxCell>
         <mxCell id="i_K3T8zcWxPipHpUa5V9-29" value="选主流程" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="2609" width="84" height="37" as="geometry" />
+          <mxGeometry x="1117" y="2595" width="84" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="i_K3T8zcWxPipHpUa5V9-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="i_K3T8zcWxPipHpUa5V9-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1136.5" y="2514.416679382324" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="i_K3T8zcWxPipHpUa5V9-30" value="客观下线" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1042" y="2514" width="85" height="37" as="geometry" />
+          <mxGeometry x="1082" y="2480" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="i_K3T8zcWxPipHpUa5V9-31" value="领导者选举（超过半数支持）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="816" y="2604" width="212" height="55" as="geometry" />
+          <mxGeometry x="911.5" y="2535" width="212" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i_K3T8zcWxPipHpUa5V9-32" value="筛选从节点：排除离线 / 未同步 / 优先级为 0" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1209" y="2571" width="193" height="55" as="geometry" />
+          <mxGeometry x="1255" y="2554" width="193" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i_K3T8zcWxPipHpUa5V9-33" value="排序：优先级 &gt; 复制偏移量 &gt; runid" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1198" y="2657" width="178" height="55" as="geometry" />
+          <mxGeometry x="1270" y="2640" width="178" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i_K3T8zcWxPipHpUa5V9-34" value="SLAVEOF NO ONE 晋升新主节点" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1164" y="2480" width="141" height="55" as="geometry" />
+          <mxGeometry x="1189" y="2450" width="141" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i_K3T8zcWxPipHpUa5V9-35" value="解决痛点" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="714" y="2586" width="84" height="37" as="geometry" />
