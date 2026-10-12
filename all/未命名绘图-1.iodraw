@@ -5,18 +5,15 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-9" value="FULLRESYNC / CONTINUE" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="560" width="200" height="40" as="geometry" />
+          <mxGeometry x="1120" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-88" style="endArrow=none;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="gNnXU5yXMV-qtYSwIXS1-7" target="gNnXU5yXMV-qtYSwIXS1-9">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2976.5372942386834" y="462" />
-              <mxPoint x="2560" y="538" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-149" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry width="1760" height="750" as="geometry" />
+          <mxGeometry x="1120" y="2241" width="1760" height="750" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-1" value="Redis 高可用架构" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="gNnXU5yXMV-qtYSwIXS1-149">
           <mxGeometry x="5700.320216049383" width="140" height="140" as="geometry" />
