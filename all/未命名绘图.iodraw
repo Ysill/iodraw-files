@@ -293,7 +293,7 @@
           <mxGeometry x="329" y="2857" width="66" height="37" as="geometry" />
         </mxCell>
         <mxCell id="i_K3T8zcWxPipHpUa5V9-9" value="FULLRESYNC / CONTINUE" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="2772" width="201" height="37" as="geometry" />
+          <mxGeometry x="178" y="2561" width="201" height="37" as="geometry" />
         </mxCell>
         <mxCell id="i_K3T8zcWxPipHpUa5V9-10" value="RDB 全量同步" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="224" y="2669" width="117" height="37" as="geometry" />
