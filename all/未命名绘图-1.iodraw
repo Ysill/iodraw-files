@@ -5,226 +5,226 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-1" value="Redis 高可用架构" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20" y="416" width="142" height="142" as="geometry" />
+          <mxGeometry x="814" y="416" width="142" height="142" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-2" value="主从模式" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="476" width="84" height="37" as="geometry" />
+          <mxGeometry x="540" y="476" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-3" value="核心定义" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="485" width="84" height="37" as="geometry" />
+          <mxGeometry x="367" y="485" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-4" value="数据复制机制" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="416" width="117" height="37" as="geometry" />
+          <mxGeometry x="175" y="416" width="117" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-5" value="主节点：写操作 + 操作日志" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="477" width="214" height="37" as="geometry" />
+          <mxGeometry x="53" y="477" width="214" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-6" value="从节点：备份 + 分担读请求" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="523" width="215" height="37" as="geometry" />
+          <mxGeometry x="150" y="523" width="215" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-7" value="工作流程" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="371" width="84" height="37" as="geometry" />
+          <mxGeometry x="313" y="371" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-8" value="PSYNC" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="455" width="66" height="37" as="geometry" />
+          <mxGeometry x="289" y="455" width="66" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-9" value="FULLRESYNC / CONTINUE" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="370" width="201" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-10" value="RDB 全量同步" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="267" width="117" height="37" as="geometry" />
+          <mxGeometry x="184" y="267" width="117" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-11" value="增量复制" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="329" width="84" height="37" as="geometry" />
+          <mxGeometry x="190" y="329" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-12" value="命令传播" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="284" width="85" height="37" as="geometry" />
+          <mxGeometry x="316" y="284" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-13" value="配置区分" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="542" width="85" height="37" as="geometry" />
+          <mxGeometry x="471" y="542" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-14" value="主节点：没有 slaveof" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="643" width="172" height="37" as="geometry" />
+          <mxGeometry x="607" y="643" width="172" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-15" value="从节点：slaveof IP PORT" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="654" width="196" height="37" as="geometry" />
+          <mxGeometry x="394" y="654" width="196" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-16" value="动态切换：SLAVEOF NO ONE" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="413" width="187" height="55" as="geometry" />
+          <mxGeometry x="375" y="413" width="187" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-17" value="优缺点" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="554" width="68" height="37" as="geometry" />
+          <mxGeometry x="369" y="554" width="68" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-18" value="优点：数据备份、读写分离" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="616" width="212" height="37" as="geometry" />
+          <mxGeometry x="166" y="616" width="212" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-19" value="缺点：无自动故障转移" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="571" width="180" height="37" as="geometry" />
+          <mxGeometry x="87" y="571" width="180" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-20" value="哨兵模式" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="288" width="84" height="37" as="geometry" />
+          <mxGeometry x="797" y="288" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-21" value="核心定义" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="353" width="84" height="37" as="geometry" />
+          <mxGeometry x="879" y="353" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-22" value="Redis 官方高可用方案" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="347" width="174" height="37" as="geometry" />
+          <mxGeometry x="676" y="347" width="174" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-23" value="3 个及以上哨兵进程" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="267" width="161" height="37" as="geometry" />
+          <mxGeometry x="897" y="267" width="161" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-24" value="监控 / 通知 / 自动故障转移 / 配置管理" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="407" width="216" height="55" as="geometry" />
+          <mxGeometry x="631" y="407" width="216" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-25" value="下线判定" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="307" width="84" height="37" as="geometry" />
+          <mxGeometry x="613" y="307" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-26" value="主观下线 SDOWN" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="259" width="141" height="37" as="geometry" />
+          <mxGeometry x="424" y="259" width="141" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-27" value="客观下线 ODOWN" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="320" width="145" height="37" as="geometry" />
+          <mxGeometry x="409" y="320" width="145" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-28" value="quorum 投票阈值" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="366" width="143" height="37" as="geometry" />
+          <mxGeometry x="489" y="366" width="143" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-29" value="选主流程" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="219" width="84" height="37" as="geometry" />
+          <mxGeometry x="1015" y="219" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-30" value="客观下线" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="147" width="85" height="37" as="geometry" />
+          <mxGeometry x="920" y="147" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-31" value="领导者选举（超过半数支持）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="202" width="212" height="55" as="geometry" />
+          <mxGeometry x="776" y="202" width="212" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-32" value="筛选从节点：排除离线 / 未同步 / 优先级为 0" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="169" width="193" height="55" as="geometry" />
+          <mxGeometry x="1169" y="169" width="193" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-33" value="排序：优先级 &gt; 复制偏移量 &gt; runid" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="255" width="178" height="55" as="geometry" />
+          <mxGeometry x="1158" y="255" width="178" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-34" value="SLAVEOF NO ONE 晋升新主节点" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="107" width="141" height="55" as="geometry" />
+          <mxGeometry x="1029" y="107" width="141" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-35" value="解决痛点" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="184" width="84" height="37" as="geometry" />
+          <mxGeometry x="674" y="184" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-36" value="自动切换" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="260" width="84" height="37" as="geometry" />
+          <mxGeometry x="695" y="260" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-37" value="持续监控" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="241" width="84" height="37" as="geometry" />
+          <mxGeometry x="587" y="241" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-38" value="通知客户端新主节点地址" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="78" width="196" height="37" as="geometry" />
+          <mxGeometry x="653" y="78" width="196" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-39" value="多哨兵协同防单点" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="196" width="148" height="37" as="geometry" />
+          <mxGeometry x="444" y="196" width="148" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-40" value="易错点" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="149" width="68" height="37" as="geometry" />
+          <mxGeometry x="781" y="149" width="68" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-41" value="未投票者支持第一个请求它的哨兵" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="29" width="212" height="55" as="geometry" />
+          <mxGeometry x="841" y="29" width="212" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-42" value="选主需超过半数，不是 1/2 即可" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="133" width="210" height="55" as="geometry" />
+          <mxGeometry x="461" y="133" width="210" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-43" value="集群模式" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="522" width="85" height="37" as="geometry" />
+          <mxGeometry x="1165" y="522" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-44" value="核心定义" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="564" width="84" height="37" as="geometry" />
+          <mxGeometry x="1328" y="564" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-45" value="分布式分片方案" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="492" width="133" height="37" as="geometry" />
+          <mxGeometry x="1265" y="492" width="133" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-46" value="通常 3 主 3 从" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="565" width="120" height="37" as="geometry" />
+          <mxGeometry x="1491" y="565" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-47" value="共 16384 个哈希槽" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="509" width="152" height="37" as="geometry" />
+          <mxGeometry x="1426" y="509" width="152" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-48" value="Gossip 协议通信" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="600" width="135" height="37" as="geometry" />
+          <mxGeometry x="1149" y="600" width="135" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-49" value="哈希槽" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="433" width="68" height="37" as="geometry" />
+          <mxGeometry x="1261" y="433" width="68" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-50" value="CRC16 算法" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="391" width="102" height="37" as="geometry" />
+          <mxGeometry x="1356" y="391" width="102" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-51" value="对 16384 取模" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="335" width="120" height="37" as="geometry" />
+          <mxGeometry x="1296" y="335" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-52" value="为什么选择 16384" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="449" width="147" height="37" as="geometry" />
+          <mxGeometry x="1383" y="449" width="147" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-53" value="内存 / 网络：2KB  vs  8KB" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="414" width="195" height="37" as="geometry" />
+          <mxGeometry x="1593" y="414" width="195" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-54" value="实际需求：主节点通常 &amp;lt; 1000 个" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="346" width="213" height="55" as="geometry" />
+          <mxGeometry x="1475" y="346" width="213" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-55" value="碰撞概率：在内存与碰撞间取得平衡" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="486" width="212" height="55" as="geometry" />
+          <mxGeometry x="1602" y="486" width="212" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-56" value="重定向" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="570" width="68" height="37" as="geometry" />
+          <mxGeometry x="1059" y="570" width="68" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-57" value="MOVED：永久重定向" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="512" width="167" height="37" as="geometry" />
+          <mxGeometry x="910" y="512" width="167" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-58" value="ASK：临时重定向" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="564" width="143" height="37" as="geometry" />
+          <mxGeometry x="866" y="564" width="143" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-59" value="验证流程" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="650" width="85" height="37" as="geometry" />
+          <mxGeometry x="1250" y="650" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-60" value="配置 cluster-enabled yes" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="746" width="197" height="37" as="geometry" />
+          <mxGeometry x="1082" y="746" width="197" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-61" value="启动 6 个实例" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="684" width="119" height="37" as="geometry" />
+          <mxGeometry x="1087" y="684" width="119" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-62" value="cluster create --replicas 1" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="681" width="206" height="37" as="geometry" />
+          <mxGeometry x="1446" y="681" width="206" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-63" value="CLUSTER INFO / CLUSTER NODES" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="615" width="203" height="55" as="geometry" />
+          <mxGeometry x="1367" y="615" width="203" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-64" value="CLUSTER KEYSLOT key" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="722" width="180" height="37" as="geometry" />
+          <mxGeometry x="1294" y="722" width="180" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-65" value="三者对比" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="406" width="84" height="37" as="geometry" />
+          <mxGeometry x="936" y="406" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-66" value="主从：备份 + 读扩展，不自动切" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="314" width="148" height="55" as="geometry" />
+          <mxGeometry x="985" y="314" width="148" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-67" value="哨兵：自动切，不解决容量和写扩展" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="451" width="212" height="55" as="geometry" />
+          <mxGeometry x="1027" y="451" width="212" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-68" value="集群：分片 + 自动切，解决容量和写扩展" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="376" width="212" height="55" as="geometry" />
+          <mxGeometry x="1070" y="376" width="212" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-69" value="自测口诀" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="600" width="84" height="37" as="geometry" />
+          <mxGeometry x="765" y="600" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-70" value="主从：PSYNC → RDB → 增量 → 传播" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="684" width="188" height="55" as="geometry" />
+          <mxGeometry x="807" y="684" width="188" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-71" value="哨兵：主观下线 → 客观下线 → 选领导 → 筛从 → 排序 → 晋升" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="705" width="216" height="73" as="geometry" />
+          <mxGeometry x="575" y="705" width="216" height="73" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-72" value="集群：CRC16 → 16384 槽 → MOVED/ASK → Gossip" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="581" width="202" height="55" as="geometry" />
+          <mxGeometry x="505" y="581" width="202" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-73" value="选主排序：优先级 → 偏移量 → runid" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="513" width="169" height="55" as="geometry" />
+          <mxGeometry x="645" y="513" width="169" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-74" value="槽位选择：省内存、够用、碰撞低" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="620" width="212" height="55" as="geometry" />
+          <mxGeometry x="901" y="620" width="212" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-75" style="endArrow=none;rounded=0;" edge="1" parent="1" source="gNnXU5yXMV-qtYSwIXS1-1" target="gNnXU5yXMV-qtYSwIXS1-2">
           <mxGeometry relative="1" as="geometry" />
