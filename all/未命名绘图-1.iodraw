@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-9" value="FULLRESYNC / CONTINUE" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="370" width="200" height="40" as="geometry" />
+          <mxGeometry x="21" y="371" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gNnXU5yXMV-qtYSwIXS1-88" style="endArrow=none;rounded=0;" edge="1" parent="1" source="gNnXU5yXMV-qtYSwIXS1-7" target="gNnXU5yXMV-qtYSwIXS1-9">
           <mxGeometry relative="1" as="geometry" />
